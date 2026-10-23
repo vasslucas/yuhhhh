@@ -1,1 +1,14 @@
+wss://si1aawmaz3w.map.azionedge.net/wisp
 https://si1aawmaz3w.map.azionedge.net/wisp
+wss://concertante.org/api/websocket-3/
+wss://concertante.org/api/websocket-2/
+wss://girlspreples.org/wi/
+wss://boxcasa.net/wi/
+wss://shop.kristenblackburnvolleyballcamps.com/wi/
+wss://learn.southpadreislandkiteboarding.com/wi/
+wss://bananadogstore.com/socket/
+wss://aplusmartialarts-templehills.com/socket/
+wss://actingoutdoor.com/socket/
+wss://restorecounselingcenter.org/socket/
+wss://nubana.cfd/api/websocket-2/
+wss://nubana.cfd/api/websocket-3/
